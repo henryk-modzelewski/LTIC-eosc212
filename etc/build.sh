@@ -1,1 +1,1 @@
-jupyter-repo2docker --image-name 2i2c-eosc212 git@github.com:henryk-modzelewski/2i2c-eosc212.git
+jupyter-repo2docker --image-name LTIC-eosc212 git@github.com:henryk-modzelewski/LTIC-eosc212.git

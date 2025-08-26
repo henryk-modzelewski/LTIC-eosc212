@@ -1,2 +1,2 @@
-# 2i2c-eosc212
-Repository for EOSC212 deployment on 2i2c Jupyter Hub
+# LTIC-eosc212
+Repository for EOSC212 deployment on LTIC Jupyter Hub
